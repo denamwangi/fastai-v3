@@ -3,5 +3,6 @@ This repo tweaks the starter files by [fast.ai](https://www.fast.ai) to deploy a
 
 For the original repo see here: deploying [fast.ai](https://github.com/fastai/fastai) models on Render.
 
-![Screenshot](sitcom_classifier.png)
+<img src="sitcom_classifier.png" width="200">
+
 
